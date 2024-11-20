@@ -1,0 +1,10 @@
+Flask==2.3.3
+flask_cors
+Werkzeug
+pandas
+scikit-learn
+matplotlib
+schedule
+requests
+gunicorn
+ollama

@@ -1,0 +1,898 @@
+{
+  "2019-W00": {
+    "arrivees": 89,
+    "departs": 92
+  },
+  "2019-W01": {
+    "arrivees": 103,
+    "departs": 103
+  },
+  "2019-W02": {
+    "arrivees": 105,
+    "departs": 106
+  },
+  "2019-W03": {
+    "arrivees": 106,
+    "departs": 107
+  },
+  "2019-W04": {
+    "arrivees": 107,
+    "departs": 112
+  },
+  "2019-W05": {
+    "arrivees": 110,
+    "departs": 111
+  },
+  "2019-W06": {
+    "arrivees": 109,
+    "departs": 109
+  },
+  "2019-W07": {
+    "arrivees": 108,
+    "departs": 109
+  },
+  "2019-W08": {
+    "arrivees": 111,
+    "departs": 108
+  },
+  "2019-W09": {
+    "arrivees": 112,
+    "departs": 112
+  },
+  "2019-W10": {
+    "arrivees": 114,
+    "departs": 112
+  },
+  "2019-W11": {
+    "arrivees": 113,
+    "departs": 109
+  },
+  "2019-W12": {
+    "arrivees": 117,
+    "departs": 114
+  },
+  "2019-W13": {
+    "arrivees": 122,
+    "departs": 134
+  },
+  "2019-W14": {
+    "arrivees": 135,
+    "departs": 141
+  },
+  "2019-W15": {
+    "arrivees": 133,
+    "departs": 148
+  },
+  "2019-W16": {
+    "arrivees": 132,
+    "departs": 148
+  },
+  "2019-W17": {
+    "arrivees": 135,
+    "departs": 137
+  },
+  "2019-W18": {
+    "arrivees": 127,
+    "departs": 129
+  },
+  "2019-W19": {
+    "arrivees": 136,
+    "departs": 135
+  },
+  "2019-W20": {
+    "arrivees": 143,
+    "departs": 139
+  },
+  "2019-W21": {
+    "arrivees": 139,
+    "departs": 134
+  },
+  "2019-W22": {
+    "arrivees": 139,
+    "departs": 141
+  },
+  "2019-W23": {
+    "arrivees": 142,
+    "departs": 140
+  },
+  "2019-W24": {
+    "arrivees": 149,
+    "departs": 150
+  },
+  "2019-W25": {
+    "arrivees": 151,
+    "departs": 155
+  },
+  "2019-W26": {
+    "arrivees": 150,
+    "departs": 156
+  },
+  "2019-W27": {
+    "arrivees": 151,
+    "departs": 152
+  },
+  "2019-W28": {
+    "arrivees": 149,
+    "departs": 149
+  },
+  "2019-W29": {
+    "arrivees": 146,
+    "departs": 149
+  },
+  "2019-W30": {
+    "arrivees": 139,
+    "departs": 140
+  },
+  "2019-W31": {
+    "arrivees": 134,
+    "departs": 135
+  },
+  "2019-W32": {
+    "arrivees": 132,
+    "departs": 132
+  },
+  "2019-W33": {
+    "arrivees": 135,
+    "departs": 135
+  },
+  "2019-W34": {
+    "arrivees": 142,
+    "departs": 142
+  },
+  "2019-W35": {
+    "arrivees": 148,
+    "departs": 141
+  },
+  "2019-W36": {
+    "arrivees": 142,
+    "departs": 140
+  },
+  "2019-W37": {
+    "arrivees": 140,
+    "departs": 140
+  },
+  "2019-W38": {
+    "arrivees": 141,
+    "departs": 138
+  },
+  "2019-W39": {
+    "arrivees": 138,
+    "departs": 137
+  },
+  "2019-W40": {
+    "arrivees": 136,
+    "departs": 135
+  },
+  "2019-W41": {
+    "arrivees": 135,
+    "departs": 140
+  },
+  "2019-W42": {
+    "arrivees": 134,
+    "departs": 141
+  },
+  "2019-W43": {
+    "arrivees": 132,
+    "departs": 132
+  },
+  "2019-W44": {
+    "arrivees": 133,
+    "departs": 131
+  },
+  "2019-W45": {
+    "arrivees": 127,
+    "departs": 123
+  },
+  "2019-W46": {
+    "arrivees": 126,
+    "departs": 125
+  },
+  "2019-W47": {
+    "arrivees": 125,
+    "departs": 123
+  },
+  "2019-W48": {
+    "arrivees": 117,
+    "departs": 116
+  },
+  "2019-W49": {
+    "arrivees": 116,
+    "departs": 114
+  },
+  "2019-W50": {
+    "arrivees": 125,
+    "departs": 129
+  },
+  "2019-W51": {
+    "arrivees": 112,
+    "departs": 112
+  },
+  "2019-W52": {
+    "arrivees": 107,
+    "departs": 105
+  },
+  "2020-W00": {
+    "arrivees": 110,
+    "departs": 109
+  },
+  "2020-W01": {
+    "arrivees": 115,
+    "departs": 113
+  },
+  "2020-W02": {
+    "arrivees": 115,
+    "departs": 117
+  },
+  "2020-W03": {
+    "arrivees": 117,
+    "departs": 119
+  },
+  "2020-W04": {
+    "arrivees": 121,
+    "departs": 120
+  },
+  "2020-W05": {
+    "arrivees": 119,
+    "departs": 115
+  },
+  "2020-W06": {
+    "arrivees": 118,
+    "departs": 115
+  },
+  "2020-W07": {
+    "arrivees": 123,
+    "departs": 120
+  },
+  "2020-W08": {
+    "arrivees": 123,
+    "departs": 118
+  },
+  "2020-W09": {
+    "arrivees": 123,
+    "departs": 120
+  },
+  "2020-W10": {
+    "arrivees": 119,
+    "departs": 114
+  },
+  "2020-W11": {
+    "arrivees": 82,
+    "departs": 79
+  },
+  "2020-W12": {
+    "arrivees": 29,
+    "departs": 28
+  },
+  "2020-W13": {
+    "arrivees": 16,
+    "departs": 14
+  },
+  "2020-W14": {
+    "arrivees": 11,
+    "departs": 12
+  },
+  "2020-W15": {
+    "arrivees": 10,
+    "departs": 11
+  },
+  "2020-W16": {
+    "arrivees": 13,
+    "departs": 12
+  },
+  "2020-W17": {
+    "arrivees": 13,
+    "departs": 11
+  },
+  "2020-W18": {
+    "arrivees": 12,
+    "departs": 10
+  },
+  "2020-W19": {
+    "arrivees": 16,
+    "departs": 14
+  },
+  "2020-W20": {
+    "arrivees": 14,
+    "departs": 11
+  },
+  "2020-W21": {
+    "arrivees": 17,
+    "departs": 15
+  },
+  "2020-W22": {
+    "arrivees": 19,
+    "departs": 19
+  },
+  "2020-W23": {
+    "arrivees": 27,
+    "departs": 22
+  },
+  "2020-W24": {
+    "arrivees": 31,
+    "departs": 24
+  },
+  "2020-W25": {
+    "arrivees": 37,
+    "departs": 29
+  },
+  "2020-W26": {
+    "arrivees": 45,
+    "departs": 39
+  },
+  "2020-W27": {
+    "arrivees": 60,
+    "departs": 53
+  },
+  "2020-W28": {
+    "arrivees": 63,
+    "departs": 54
+  },
+  "2020-W29": {
+    "arrivees": 69,
+    "departs": 57
+  },
+  "2020-W30": {
+    "arrivees": 70,
+    "departs": 61
+  },
+  "2020-W31": {
+    "arrivees": 76,
+    "departs": 68
+  },
+  "2020-W32": {
+    "arrivees": 77,
+    "departs": 74
+  },
+  "2020-W33": {
+    "arrivees": 81,
+    "departs": 75
+  },
+  "2020-W34": {
+    "arrivees": 87,
+    "departs": 81
+  },
+  "2020-W35": {
+    "arrivees": 88,
+    "departs": 84
+  },
+  "2020-W36": {
+    "arrivees": 82,
+    "departs": 83
+  },
+  "2020-W37": {
+    "arrivees": 80,
+    "departs": 80
+  },
+  "2020-W38": {
+    "arrivees": 71,
+    "departs": 74
+  },
+  "2020-W39": {
+    "arrivees": 67,
+    "departs": 67
+  },
+  "2020-W40": {
+    "arrivees": 63,
+    "departs": 60
+  },
+  "2020-W41": {
+    "arrivees": 64,
+    "departs": 58
+  },
+  "2020-W42": {
+    "arrivees": 68,
+    "departs": 66
+  },
+  "2020-W43": {
+    "arrivees": 72,
+    "departs": 68
+  },
+  "2020-W44": {
+    "arrivees": 60,
+    "departs": 56
+  },
+  "2020-W45": {
+    "arrivees": 40,
+    "departs": 40
+  },
+  "2020-W46": {
+    "arrivees": 36,
+    "departs": 38
+  },
+  "2020-W47": {
+    "arrivees": 34,
+    "departs": 35
+  },
+  "2020-W48": {
+    "arrivees": 37,
+    "departs": 38
+  },
+  "2020-W49": {
+    "arrivees": 37,
+    "departs": 38
+  },
+  "2020-W50": {
+    "arrivees": 51,
+    "departs": 50
+  },
+  "2020-W51": {
+    "arrivees": 63,
+    "departs": 66
+  },
+  "2020-W52": {
+    "arrivees": 59,
+    "departs": 62
+  },
+  "2021-W00": {
+    "arrivees": 59,
+    "departs": 62
+  },
+  "2021-W01": {
+    "arrivees": 56,
+    "departs": 60
+  },
+  "2021-W02": {
+    "arrivees": 48,
+    "departs": 50
+  },
+  "2021-W03": {
+    "arrivees": 46,
+    "departs": 47
+  },
+  "2021-W04": {
+    "arrivees": 45,
+    "departs": 45
+  },
+  "2021-W05": {
+    "arrivees": 44,
+    "departs": 43
+  },
+  "2021-W06": {
+    "arrivees": 43,
+    "departs": 43
+  },
+  "2021-W07": {
+    "arrivees": 43,
+    "departs": 43
+  },
+  "2021-W08": {
+    "arrivees": 43,
+    "departs": 44
+  },
+  "2021-W09": {
+    "arrivees": 44,
+    "departs": 46
+  },
+  "2021-W10": {
+    "arrivees": 44,
+    "departs": 46
+  },
+  "2021-W11": {
+    "arrivees": 43,
+    "departs": 45
+  },
+  "2021-W12": {
+    "arrivees": 47,
+    "departs": 48
+  },
+  "2021-W13": {
+    "arrivees": 50,
+    "departs": 50
+  },
+  "2021-W14": {
+    "arrivees": 47,
+    "departs": 48
+  },
+  "2021-W15": {
+    "arrivees": 48,
+    "departs": 48
+  },
+  "2021-W16": {
+    "arrivees": 51,
+    "departs": 51
+  },
+  "2021-W17": {
+    "arrivees": 49,
+    "departs": 50
+  },
+  "2021-W18": {
+    "arrivees": 56,
+    "departs": 57
+  },
+  "2021-W19": {
+    "arrivees": 58,
+    "departs": 58
+  },
+  "2021-W20": {
+    "arrivees": 63,
+    "departs": 64
+  },
+  "2021-W21": {
+    "arrivees": 65,
+    "departs": 66
+  },
+  "2021-W22": {
+    "arrivees": 70,
+    "departs": 72
+  },
+  "2021-W23": {
+    "arrivees": 82,
+    "departs": 83
+  },
+  "2021-W24": {
+    "arrivees": 89,
+    "departs": 91
+  },
+  "2021-W25": {
+    "arrivees": 97,
+    "departs": 100
+  },
+  "2021-W26": {
+    "arrivees": 102,
+    "departs": 105
+  },
+  "2021-W27": {
+    "arrivees": 117,
+    "departs": 122
+  },
+  "2021-W28": {
+    "arrivees": 112,
+    "departs": 116
+  },
+  "2021-W29": {
+    "arrivees": 114,
+    "departs": 119
+  },
+  "2021-W30": {
+    "arrivees": 112,
+    "departs": 116
+  },
+  "2021-W31": {
+    "arrivees": 111,
+    "departs": 116
+  },
+  "2021-W32": {
+    "arrivees": 111,
+    "departs": 118
+  },
+  "2021-W33": {
+    "arrivees": 112,
+    "departs": 116
+  },
+  "2021-W34": {
+    "arrivees": 115,
+    "departs": 121
+  },
+  "2021-W35": {
+    "arrivees": 118,
+    "departs": 124
+  },
+  "2021-W36": {
+    "arrivees": 111,
+    "departs": 114
+  },
+  "2021-W37": {
+    "arrivees": 111,
+    "departs": 110
+  },
+  "2021-W38": {
+    "arrivees": 113,
+    "departs": 117
+  },
+  "2021-W39": {
+    "arrivees": 114,
+    "departs": 117
+  },
+  "2021-W40": {
+    "arrivees": 110,
+    "departs": 112
+  },
+  "2021-W41": {
+    "arrivees": 111,
+    "departs": 113
+  },
+  "2021-W42": {
+    "arrivees": 111,
+    "departs": 113
+  },
+  "2021-W43": {
+    "arrivees": 112,
+    "departs": 115
+  },
+  "2021-W44": {
+    "arrivees": 104,
+    "departs": 113
+  },
+  "2021-W45": {
+    "arrivees": 101,
+    "departs": 103
+  },
+  "2021-W46": {
+    "arrivees": 101,
+    "departs": 103
+  },
+  "2021-W47": {
+    "arrivees": 103,
+    "departs": 105
+  },
+  "2021-W48": {
+    "arrivees": 100,
+    "departs": 103
+  },
+  "2021-W49": {
+    "arrivees": 95,
+    "departs": 98
+  },
+  "2021-W50": {
+    "arrivees": 100,
+    "departs": 101
+  },
+  "2021-W51": {
+    "arrivees": 97,
+    "departs": 99
+  },
+  "2021-W52": {
+    "arrivees": 87,
+    "departs": 87
+  },
+  "2022-W00": {
+    "arrivees": 91,
+    "departs": 92
+  },
+  "2022-W01": {
+    "arrivees": 90,
+    "departs": 91
+  },
+  "2022-W02": {
+    "arrivees": 80,
+    "departs": 81
+  },
+  "2022-W03": {
+    "arrivees": 76,
+    "departs": 77
+  },
+  "2022-W04": {
+    "arrivees": 74,
+    "departs": 75
+  },
+  "2022-W05": {
+    "arrivees": 76,
+    "departs": 78
+  },
+  "2022-W06": {
+    "arrivees": 90,
+    "departs": 91
+  },
+  "2022-W07": {
+    "arrivees": 93,
+    "departs": 99
+  },
+  "2022-W08": {
+    "arrivees": 97,
+    "departs": 103
+  },
+  "2022-W09": {
+    "arrivees": 98,
+    "departs": 104
+  },
+  "2022-W10": {
+    "arrivees": 103,
+    "departs": 109
+  },
+  "2022-W11": {
+    "arrivees": 105,
+    "departs": 112
+  },
+  "2022-W12": {
+    "arrivees": 106,
+    "departs": 111
+  },
+  "2022-W13": {
+    "arrivees": 116,
+    "departs": 123
+  },
+  "2022-W14": {
+    "arrivees": 122,
+    "departs": 129
+  },
+  "2022-W15": {
+    "arrivees": 126,
+    "departs": 134
+  },
+  "2022-W16": {
+    "arrivees": 126,
+    "departs": 131
+  },
+  "2022-W17": {
+    "arrivees": 127,
+    "departs": 133
+  },
+  "2022-W18": {
+    "arrivees": 135,
+    "departs": 143
+  },
+  "2022-W19": {
+    "arrivees": 134,
+    "departs": 141
+  },
+  "2022-W20": {
+    "arrivees": 133,
+    "departs": 139
+  },
+  "2022-W21": {
+    "arrivees": 134,
+    "departs": 141
+  },
+  "2022-W22": {
+    "arrivees": 145,
+    "departs": 154
+  },
+  "2022-W23": {
+    "arrivees": 138,
+    "departs": 146
+  },
+  "2022-W24": {
+    "arrivees": 142,
+    "departs": 151
+  },
+  "2022-W25": {
+    "arrivees": 146,
+    "departs": 153
+  },
+  "2022-W26": {
+    "arrivees": 143,
+    "departs": 148
+  },
+  "2022-W27": {
+    "arrivees": 152,
+    "departs": 158
+  },
+  "2022-W28": {
+    "arrivees": 149,
+    "departs": 152
+  },
+  "2022-W29": {
+    "arrivees": 150,
+    "departs": 151
+  },
+  "2022-W30": {
+    "arrivees": 155,
+    "departs": 157
+  },
+  "2022-W31": {
+    "arrivees": 145,
+    "departs": 146
+  },
+  "2022-W32": {
+    "arrivees": 137,
+    "departs": 138
+  },
+  "2022-W33": {
+    "arrivees": 137,
+    "departs": 137
+  },
+  "2022-W34": {
+    "arrivees": 143,
+    "departs": 144
+  },
+  "2022-W35": {
+    "arrivees": 146,
+    "departs": 147
+  },
+  "2022-W36": {
+    "arrivees": 144,
+    "departs": 147
+  },
+  "2022-W37": {
+    "arrivees": 141,
+    "departs": 145
+  },
+  "2022-W38": {
+    "arrivees": 138,
+    "departs": 142
+  },
+  "2022-W39": {
+    "arrivees": 148,
+    "departs": 153
+  },
+  "2022-W40": {
+    "arrivees": 143,
+    "departs": 150
+  },
+  "2022-W41": {
+    "arrivees": 140,
+    "departs": 145
+  },
+  "2022-W42": {
+    "arrivees": 140,
+    "departs": 144
+  },
+  "2022-W43": {
+    "arrivees": 139,
+    "departs": 143
+  },
+  "2022-W44": {
+    "arrivees": 125,
+    "departs": 136
+  },
+  "2022-W45": {
+    "arrivees": 123,
+    "departs": 137
+  },
+  "2022-W46": {
+    "arrivees": 124,
+    "departs": 137
+  },
+  "2022-W47": {
+    "arrivees": 125,
+    "departs": 138
+  },
+  "2022-W48": {
+    "arrivees": 124,
+    "departs": 138
+  },
+  "2022-W49": {
+    "arrivees": 124,
+    "departs": 138
+  },
+  "2022-W50": {
+    "arrivees": 124,
+    "departs": 137
+  },
+  "2022-W51": {
+    "arrivees": 125,
+    "departs": 140
+  },
+  "2022-W52": {
+    "arrivees": 106,
+    "departs": 119
+  },
+  "2023-W00": {
+    "arrivees": 110,
+    "departs": 123
+  },
+  "2023-W01": {
+    "arrivees": 113,
+    "departs": 126
+  },
+  "2023-W02": {
+    "arrivees": 110,
+    "departs": 119
+  },
+  "2023-W03": {
+    "arrivees": 110,
+    "departs": 114
+  },
+  "2023-W04": {
+    "arrivees": 113,
+    "departs": 117
+  },
+  "2023-W05": {
+    "arrivees": 113,
+    "departs": 118
+  },
+  "2023-W06": {
+    "arrivees": 115,
+    "departs": 120
+  },
+  "2023-W07": {
+    "arrivees": 118,
+    "departs": 123
+  },
+  "2023-W08": {
+    "arrivees": 119,
+    "departs": 123
+  },
+  "2023-W09": {
+    "arrivees": 120,
+    "departs": 125
+  },
+  "2023-W10": {
+    "arrivees": 109,
+    "departs": 114
+  },
+  "2023-W11": {
+    "arrivees": 103,
+    "departs": 106
+  }
+}
