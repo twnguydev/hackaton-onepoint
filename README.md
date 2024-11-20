@@ -51,7 +51,7 @@ Un grand merci à nos partenaires pour leur soutien :
 
 ## 🎯 Objectif du projet
 
-Le repository présente le code source et la documentation du projet gagnant : **[Nom du projet ici]**.  
+Le repository présente le code source et la documentation du projet gagnant : **IA4Good [Impact Carbone des Activités Maritimes]**.  
 Le but est de permettre à la communauté de :
 - Explorer le code.
 - Contribuer à son évolution.
@@ -61,10 +61,9 @@ Le but est de permettre à la communauté de :
 
 ```plaintext
 .
-├── src/               # Code source du projet
-├── docs/              # Documentation et ressources
+├── back/               # Code source du projet
+├── front/             # Interface web
 ├── data/              # Jeux de données utilisés
-├── tests/             # Scripts et cas de test
 └── README.md          # Ce fichier
 ```
 
@@ -72,7 +71,7 @@ Le but est de permettre à la communauté de :
 
 Clonez le repository :
 ```bash
-git clone https://github.com/Onepoint/code4sud-winner.git
+git clone git@github.com:twnguydev/hackaton-onepoint.git
 ```
 
 - Lancez le container Docker.
